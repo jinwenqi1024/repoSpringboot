@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springBoot_child5_freemarker/springBoot_child5_freemarker.iml" filepath="$PROJECT_DIR$/springboot_parent/springBoot_child5_freemarker/springBoot_child5_freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo1/springbootDemo1.iml" filepath="$PROJECT_DIR$/springbootDemo1/springbootDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootDemo2/springbootDemo2.iml" filepath="$PROJECT_DIR$/springbootDemo2/springbootDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_child1_httpmessageconverter/springboot_child1_httpmessageconverter.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_child1_httpmessageconverter/springboot_child1_httpmessageconverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_child2_exception/springboot_child2_exception.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_child2_exception/springboot_child2_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_child3_async/springboot_child3_async.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_child3_async/springboot_child3_async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_child4_jsp/springboot_child4_jsp.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_child4_jsp/springboot_child4_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_child6_quartz/springboot_child6_quartz.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_child6_quartz/springboot_child6_quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_child7_jdbcTemplate/springboot_child7_jdbcTemplate.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_child7_jdbcTemplate/springboot_child7_jdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_child8_mybatis/springboot_child8_mybatis.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_child8_mybatis/springboot_child8_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_child9_mybatis_anno/springboot_child9_mybatis_anno.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_child9_mybatis_anno/springboot_child9_mybatis_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_parent.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_parent.iml" />
+    </modules>
+  </component>
+</project>

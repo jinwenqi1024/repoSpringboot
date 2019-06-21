@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot_parent/springboot_child4_jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot_parent/springBoot_child5_freemarker" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springbootDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootDemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child1_httpmessageconverter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child2_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child3_async/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child4_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/springBoot_child5_freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child5/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

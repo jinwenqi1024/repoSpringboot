@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_child1" />
+        <module name="springboot_child1_httpmessageconverter" />
+        <module name="springboot_child2" />
+        <module name="springboot_child2_exception" />
+        <module name="springboot_child3" />
+        <module name="springboot_child3_async" />
+        <module name="springboot_child4" />
+        <module name="springboot_child4_jsp" />
+        <module name="springBoot_child5" />
+        <module name="springBoot_child5_freemarker" />
+        <module name="springboot_child6_quartz" />
+        <module name="springboot_child7_jdbcTemplate" />
+        <module name="springboot_child8_mybatis" />
+        <module name="springboot_child9_mybatis_anno" />
+        <module name="springbootDemo1" />
+        <module name="springbootDemo2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot_child1" target="1.5" />
+      <module name="springboot_child1_httpmessageconverter" target="1.5" />
+      <module name="springboot_child2" target="1.5" />
+      <module name="springboot_child2_exception" target="1.5" />
+      <module name="springboot_child3" target="1.5" />
+      <module name="springboot_child3_async" target="1.5" />
+      <module name="springboot_child4" target="1.8" />
+      <module name="springboot_child4_jsp" target="1.8" />
+      <module name="springboot_child5" target="1.5" />
+      <module name="springBoot_child5" target="1.5" />
+      <module name="springBoot_child5_freemarker" target="1.5" />
+      <module name="springboot_child6_quartz" target="1.5" />
+      <module name="springboot_child7_jdbcTemplate" target="1.5" />
+      <module name="springboot_child8_mybatis" target="1.5" />
+      <module name="springboot_child9_mybatis_anno" target="1.5" />
+      <module name="springboot_parent" target="1.5" />
+      <module name="springbootDemo1" target="1.6" />
+      <module name="springbootDemo2" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
