@@ -21,6 +21,8 @@
       <set>
         <option value="$PROJECT_DIR$/springboot_parent/springboot_child11_temp/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_parent/springboot_child12_jpa2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child17_nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child18_nacos2/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_parent/springboot_child5/pom.xml" />
       </set>
     </option>

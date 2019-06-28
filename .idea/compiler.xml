@@ -16,8 +16,6 @@
         <module name="springboot_child14_JWT" />
         <module name="springboot_child15_hessian_server" />
         <module name="springboot_child16_hessian_client" />
-        <module name="springboot_child17_nacos" />
-        <module name="springboot_child18_nacos2" />
         <module name="springboot_child19_nacos_config" />
         <module name="springboot_child1_httpmessageconverter" />
         <module name="springboot_child2" />
