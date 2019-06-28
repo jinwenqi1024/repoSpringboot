@@ -7,6 +7,7 @@
     <groupId>com.mailuo</groupId>
     <artifactId>springboot_parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
 
 
@@ -19,6 +20,16 @@
         <module>springboot_child7_jdbcTemplate</module>
         <module>springboot_child8_mybatis</module>
         <module>springboot_child9_mybatis_anno</module>
+        <module>springboot_child10_Doc</module>
+        <module>springboot_child11_jpa</module>
+        <module>springboot_child12_JPA2</module>
+        <module>springboot_child13_email</module>
+        <module>springboot_child14_JWT</module>
+        <module>springboot_child15_hessian_server</module>
+        <module>springboot_child16_hessian_client</module>
+        <module>springboot_child17_nacos</module>
+        <module>springboot_child18_nacos2</module>
+        <module>springboot_child19_nacos_config</module>
 
 
     </modules>

@@ -19,6 +19,8 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child11_temp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_parent/springboot_child12_jpa2/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_parent/springboot_child5/pom.xml" />
       </set>
     </option>

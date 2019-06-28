@@ -2,11 +2,23 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_child1" />
+        <module name="springboot_child10_Doc" />
+        <module name="springboot_child11_jpa" />
+        <module name="springboot_child11_temp" />
+        <module name="springboot_child12_JPA2" />
+        <module name="springboot_child13_email" />
+        <module name="springboot_child14_JWT" />
+        <module name="springboot_child15_hessian_server" />
+        <module name="springboot_child16_hessian_client" />
+        <module name="springboot_child17_nacos" />
+        <module name="springboot_child18_nacos2" />
+        <module name="springboot_child19_nacos_config" />
         <module name="springboot_child1_httpmessageconverter" />
         <module name="springboot_child2" />
         <module name="springboot_child2_exception" />
@@ -26,6 +38,18 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot_child1" target="1.5" />
+      <module name="springboot_child10_Doc" target="1.7" />
+      <module name="springboot_child11_jpa" target="1.5" />
+      <module name="springboot_child11_temp" target="1.5" />
+      <module name="springboot_child12_JPA2" target="1.5" />
+      <module name="springboot_child12_jpa2" target="1.5" />
+      <module name="springboot_child13_email" target="1.5" />
+      <module name="springboot_child14_JWT" target="1.5" />
+      <module name="springboot_child15_hessian_server" target="1.5" />
+      <module name="springboot_child16_hessian_client" target="1.5" />
+      <module name="springboot_child17_nacos" target="1.5" />
+      <module name="springboot_child18_nacos2" target="1.5" />
+      <module name="springboot_child19_nacos_config" target="1.5" />
       <module name="springboot_child1_httpmessageconverter" target="1.5" />
       <module name="springboot_child2" target="1.5" />
       <module name="springboot_child2_exception" target="1.5" />
@@ -33,14 +57,15 @@
       <module name="springboot_child3_async" target="1.5" />
       <module name="springboot_child4" target="1.8" />
       <module name="springboot_child4_jsp" target="1.8" />
-      <module name="springboot_child5" target="1.5" />
       <module name="springBoot_child5" target="1.5" />
+      <module name="springboot_child5" target="1.5" />
       <module name="springBoot_child5_freemarker" target="1.5" />
       <module name="springboot_child6_quartz" target="1.5" />
       <module name="springboot_child7_jdbcTemplate" target="1.5" />
       <module name="springboot_child8_mybatis" target="1.5" />
       <module name="springboot_child9_mybatis_anno" target="1.5" />
       <module name="springboot_parent" target="1.5" />
+      <module name="springboot_testdoc" target="1.8" />
       <module name="springbootDemo1" target="1.6" />
       <module name="springbootDemo2" target="1.6" />
     </bytecodeTargetLevel>
